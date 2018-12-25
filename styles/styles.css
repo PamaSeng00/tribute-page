@@ -6,10 +6,14 @@ body{
     font-size: 100%;
 }
 
-img{
-    max-width: 100%;
+#image {
+    width: 100%;
     height: auto;
-}
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
 
 .center-text{
     text-align: center;
@@ -25,3 +29,4 @@ img{
     margin: 0 auto;
     width: 60%
 }
+
